@@ -97,7 +97,7 @@ def load_ml20m(args, **kwargs):
 
         set_seed(args.seed)
         for i in range(train_tensor.shape[0]):
-            out = torch.multinomial(sorted_pop_distribution, sampling_count, replacement=False)
+            out = torch.multinomial(pop_distribution, sampling_count, replacement=False)
             popular_items_from_sampled = [index for index in out if index in top_10_percent_items]
             popular_items = torch.tensor(popular_items_from_sampled)
             popular_items = popular_items.long()
@@ -263,7 +263,7 @@ def load_netflix(args, **kwargs):
 
         set_seed(args.seed)
         for i in range(train_tensor.shape[0]):
-            out = torch.multinomial(sorted_pop_distribution, sampling_count, replacement=False)
+            out = torch.multinomial(pop_distribution, sampling_count, replacement=False)
             popular_items_from_sampled = [index for index in out if index in top_10_percent_items]
             popular_items = torch.tensor(popular_items_from_sampled)
             popular_items = popular_items.long()
