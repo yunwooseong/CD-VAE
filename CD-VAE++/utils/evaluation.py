@@ -120,7 +120,7 @@ def evaluate_vae(args, model1, model2, trainloader, pop_loader, unpop_loader, da
             s1_p_mean_pop, s1_p_logvar_pop = model1.p_s1(s2_pop)
             pred_pop, pred_log_pop = model1.p_x(s1_pop, s2_pop, z_pop)
 
-            ## model2
+            # model2
             z_mu_unpop, z_logvar_unpop = model2.q_z(x)
             z_unpop = model2.reparameterize(z_mu_unpop, z_logvar_unpop)
 
