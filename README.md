@@ -1,6 +1,6 @@
-# Don’t Forget the Tail : Contrastive Disentangled Variational Autoencoder for Collaborative Filtering.
+# Contrastive Disentangled Variational Autoencoder for Collaborative Filtering.
 
-### CD-VAE and CD-VAE<sup>++</sup> Implementation
+### CD-VAE and ECD-VAE Implementation
 
 This repository contains the implementation code for the CD-VAE and CD-VAE<sup>++</sup> models as proposed in our paper.
 
