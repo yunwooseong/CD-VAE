@@ -2,7 +2,7 @@
 
 ### CD-VAE and ECD-VAE Implementation
 
-This repository contains the implementation code for the CD-VAE and CD-VAE<sup>++</sup> models as proposed in our paper.
+This repository contains the implementation code for the CD-VAE and ECD-VAE models as proposed in our paper.
 
 ### Example Usage
 
