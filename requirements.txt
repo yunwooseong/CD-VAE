@@ -1,0 +1,69 @@
+accelerate==0.23.0
+Bottleneck @ file:///work/ci_py311/bottleneck_1676827011612/work
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+charset-normalizer==3.2.0
+cmake==3.27.1
+contourpy @ file:///work/ci_py311/contourpy_1676827066340/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+diffusers==0.21.1
+filelock==3.12.2
+fonttools==4.25.0
+fsspec==2023.9.0
+huggingface-hub==0.17.1
+idna==3.4
+importlib-metadata==6.8.0
+Jinja2==3.1.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1691577114857/work
+kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
+lit==16.0.6
+MarkupSafe==2.1.3
+matplotlib @ file:///croot/matplotlib-suite_1679593461707/work
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath==1.3.0
+munkres==1.1.4
+networkx==3.1
+numexpr @ file:///croot/numexpr_1683221822650/work
+numpy @ file:///croot/numpy_and_numpy_base_1691091611330/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+packaging @ file:///croot/packaging_1693575174725/work
+pandas==1.5.3
+Pillow==9.4.0
+ply==3.11
+protobuf==3.20.3
+psutil==5.9.5
+pyparsing @ file:///work/ci_py311/pyparsing_1677811559502/work
+PyQt5-sip==12.11.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///work/ci_py311/pytz_1676825004346/work
+PyYAML==6.0.1
+regex==2023.8.8
+requests==2.31.0
+safetensors==0.3.3
+scikit-learn @ file:///croot/scikit-learn_1684954695550/work
+scipy @ file:///croot/scipy_1691606680890/work/dist/scipy-1.11.1-cp311-cp311-linux_x86_64.whl#sha256=ba491c7d30a02bb93027e90b0aa58c0fe8d1e0fc3ddfe3469178740bd150aa45
+seaborn @ file:///work/ci_py311/seaborn_1676845747354/work
+sip @ file:///work/ci_py311/sip_1676825117084/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.12
+tensorboardX @ file:///tmp/build/80754af9/tensorboardx_1621440489103/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1689261241048/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+torch==2.0.1
+tornado @ file:///croot/tornado_1690848263220/work
+tqdm @ file:///croot/tqdm_1679561862951/work
+triton==2.0.0
+typing_extensions==4.7.1
+urllib3==2.0.4
+zipp==3.16.2
