@@ -14,7 +14,7 @@ python experiment.py --max_beta=0.3 --gated --input_type="binary" --s1_size=200 
 ### Requirements
 The required libraries and packages are listed in ```requirements.txt```.
 ### Datasets
-We used the MovieLens20M and Netflix Prize datasets in our experiments. 
+We used the MovieLens20M and Netflix datasets in our experiments. 
 
 ```./datasets``` include download paths and preprocessing procedures.
 
