@@ -1,4 +1,4 @@
-# Contrastive Disentangled Variational Autoencoder for Collaborative Filtering.
+# [Under Review] Contrastive Disentangled Variational Autoencoder for Collaborative Filtering.
 
 ### CD-VAE and ECD-VAE Implementation
 
