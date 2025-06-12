@@ -1,10 +1,9 @@
 # [IEEE Access] Contrastive Disentangled Variational Autoencoder for Collaborative Filtering.
+## 📄 Paper 
 
 ## CD-VAE and ECD-VAE Implementation
 
 This repository contains the implementation code for the CD-VAE and ECD-VAE models as proposed in our paper.
-
-## 📄 Paper 
 
 ## Example Usage
 
