@@ -23,4 +23,4 @@ python experiment.py --max_beta=0.3 --gated --input_type="binary" --s1_size=200 
 ```
 
 ### Acknowledgements
-Our code is based on https://github.com/dawenl/vae_cf and https://github.com/psywaves/EVCF .
+This work was partly supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. RS-2024-00419201) and Institute of Information \& Communications Technology Planning \& Evaluation (IITP) grant funded by the Korean government (MSIT) (RS-2021-II211341, Artificial Intelligence Graduate School Program of Chung-Ang Univ.). This research was supported by the Chung-Ang University Graduate Research Scholarship in 2023.
